@@ -458,11 +458,14 @@
       "duplicate_sheet_names": "error",
       "endpoint_off_grid": "warning",
       "extra_units": "error",
+      "field_name_whitespace": "warning",
       "footprint_filter": "ignore",
       "footprint_link_issues": "warning",
       "four_way_junction": "ignore",
       "global_label_dangling": "warning",
+      "ground_pin_not_ground": "warning",
       "hier_label_mismatch": "error",
+      "isolated_pin_label": "warning",
       "label_dangling": "error",
       "label_multiple_wires": "warning",
       "lib_symbol_issues": "warning",
@@ -485,8 +488,10 @@
       "similar_power": "warning",
       "simulation_model_issue": "ignore",
       "single_global_label": "ignore",
+      "stacked_pin_name": "warning",
       "unannotated": "error",
       "unconnected_wire_endpoint": "warning",
+      "undefined_netclass": "error",
       "unit_value_mismatch": "error",
       "unresolved_variable": "error",
       "wire_dangling": "error"
@@ -529,7 +534,7 @@
         "microvia_drill": 0.1,
         "name": "5V-3.3V",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 1,
+        "priority": 2,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 0.35,
         "tuning_profile": "",
@@ -544,11 +549,26 @@
         "microvia_drill": 0.1,
         "name": "8V",
         "pcb_color": "rgba(0, 0, 0, 0.000)",
-        "priority": 0,
+        "priority": 1,
         "schematic_color": "rgba(0, 0, 0, 0.000)",
         "track_width": 1.0,
         "tuning_profile": "",
         "via_diameter": 1.0,
+        "via_drill": 0.5
+      },
+      {
+        "clearance": 0.2,
+        "diff_pair_gap": 0.25,
+        "diff_pair_width": 0.2,
+        "microvia_diameter": 0.3,
+        "microvia_drill": 0.1,
+        "name": "UART RX/TX",
+        "pcb_color": "rgba(0, 0, 0, 0.000)",
+        "priority": 0,
+        "schematic_color": "rgba(0, 0, 0, 0.000)",
+        "track_width": 0.3355,
+        "tuning_profile": "",
+        "via_diameter": 0.6,
         "via_drill": 0.5
       }
     ],
@@ -593,6 +613,14 @@
       {
         "netclass": "5V-3.3V",
         "pattern": "Net - (D5-A)"
+      },
+      {
+        "netclass": "UART RX/TX",
+        "pattern": "3V3TX_LIDAR"
+      },
+      {
+        "netclass": "UART RX/TX",
+        "pattern": "3V3RX_LIDAR"
       }
     ]
   },
@@ -612,6 +640,10 @@
   },
   "schematic": {
     "annotate_start_num": 0,
+    "annotation": {
+      "method": 0,
+      "sort_order": 0
+    },
     "bom_export_filename": "${PROJECTNAME}.csv",
     "bom_fmt_presets": [],
     "bom_fmt_settings": {
@@ -691,6 +723,7 @@
       "default_line_thickness": 6.0,
       "default_text_size": 25.0,
       "field_names": [],
+      "hop_over_size_choice": 0,
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
       "intersheets_ref_short": false,
@@ -714,6 +747,7 @@
     "net_format_name": "",
     "page_layout_descr_file": "",
     "plot_directory": "",
+    "reuse_designators": true,
     "space_save_all_events": true,
     "spice_current_sheet_as_root": false,
     "spice_external_command": "spice \"%I\"",
@@ -727,14 +761,16 @@
       {
         "filename": "Bellbot.kicad_sch",
         "name": "Bellbot",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "e8e381ed-df8a-48a3-822a-37f3233d3329"
       }
-    ]
+    ],
+    "used_designators": "J13,#PWR70,#PWR72,TP1-14",
+    "variants": []
   },
   "sheets": [
     [
       "e8e381ed-df8a-48a3-822a-37f3233d3329",
-      "Root"
+      "Bellbot"
     ],
     [
       "ec58c3ca-366a-49a1-aeb5-79998bccdb0d",
@@ -747,6 +783,10 @@
     [
       "f6922a4d-eb42-4849-8627-b370907a06e7",
       "Charging"
+    ],
+    [
+      "e09a5e99-a4b1-4b5f-b138-a930877e2047",
+      "Stackup"
     ]
   ],
   "text_variables": {},
