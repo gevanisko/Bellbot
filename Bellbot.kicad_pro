@@ -764,7 +764,7 @@
         "uuid": "e8e381ed-df8a-48a3-822a-37f3233d3329"
       }
     ],
-    "used_designators": "TP15-24,#PWR112-113",
+    "used_designators": "#PWR11,#PWR73-75,#PWR82,#PWR85,#PWR89,#PWR93-94,#PWR97-99,#PWR114,D7-10,J8,J14-15,R15,R17,R20,R22-24",
     "variants": []
   },
   "sheets": [
@@ -787,6 +787,10 @@
     [
       "e09a5e99-a4b1-4b5f-b138-a930877e2047",
       "Stackup"
+    ],
+    [
+      "5a9b6bf8-4998-4ccf-ab38-350c32b7219e",
+      "Extra Breakout Pins"
     ]
   ],
   "text_variables": {},
