@@ -1978,6 +1978,16 @@
 		)
 		(uuid "1a761dcc-e396-4daf-b20a-270e9c11fd87")
 	)
+	(text "Test points for each motor\n"
+		(exclude_from_sim no)
+		(at 231.648 111.506 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+		)
+		(uuid "207e4adf-2d1a-42b4-ae4c-64d65f7faed8")
+	)
 	(text "The RX of the microcontroller connects to the TX\nfor the HC-05 and vice versa\n"
 		(exclude_from_sim no)
 		(at 221.488 16.256 0)
@@ -1987,6 +1997,16 @@
 			)
 		)
 		(uuid "42ce2921-b7df-4d3f-babd-a0bee86b2ecf")
+	)
+	(text "Test points for each peripheral\n"
+		(exclude_from_sim no)
+		(at 246.126 86.868 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+		)
+		(uuid "50d4771e-fefd-494f-8467-5d289840c34b")
 	)
 	(text "IMU"
 		(exclude_from_sim no)
@@ -2039,6 +2059,12 @@
 		(uuid "ec8f124a-fdcf-4e99-9b6b-0671a664d218")
 	)
 	(junction
+		(at 233.68 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1071200b-c0f8-4be3-a89a-9ee8bc0d9ed2")
+	)
+	(junction
 		(at 138.43 44.45)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2051,10 +2077,28 @@
 		(uuid "47569460-6aeb-4873-ae6c-de751d42b96f")
 	)
 	(junction
+		(at 241.3 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "50df1462-5605-483b-afa3-ca7afe3672e9")
+	)
+	(junction
 		(at 125.73 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7bf59b64-a763-468f-b092-b3ee84b0e59f")
+	)
+	(junction
+		(at 234.95 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7c25158a-bcfb-4569-8dee-72a761472e6e")
+	)
+	(junction
+		(at 248.92 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7e2ac51c-3f13-439c-a03c-df4e98e01033")
 	)
 	(junction
 		(at 162.56 83.82)
@@ -2087,6 +2131,12 @@
 		(uuid "c834d41a-9eb0-4878-a6c1-e49057ad9a3c")
 	)
 	(junction
+		(at 261.62 101.6)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d1c5e72b-f22c-4a09-8900-8c99254da936")
+	)
+	(junction
 		(at 125.73 85.09)
 		(diameter 0)
 		(color 0 0 0 0)
@@ -2097,6 +2147,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e3a7440c-adb2-421f-8ab0-ab509854461e")
+	)
+	(junction
+		(at 248.92 124.46)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e86d8134-634a-4440-bfb5-308918edd2c8")
 	)
 	(junction
 		(at 125.73 106.68)
@@ -2182,6 +2238,16 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 97.79) (xy 261.62 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08ce0521-35c6-4a36-8a30-df8e6bfe213b")
+	)
+	(wire
+		(pts
 			(xy 161.29 41.91) (xy 160.02 41.91)
 		)
 		(stroke
@@ -2219,6 +2285,16 @@
 			(type default)
 		)
 		(uuid "15238359-07f9-4360-8226-3d628e65682a")
+	)
+	(wire
+		(pts
+			(xy 248.92 124.46) (xy 241.3 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "15f752bb-4ada-41c7-8627-73961716cb4a")
 	)
 	(polyline
 		(pts
@@ -2292,6 +2368,16 @@
 	)
 	(wire
 		(pts
+			(xy 219.71 124.46) (xy 233.68 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e614b28-9bb7-4587-a3e0-718339306489")
+	)
+	(wire
+		(pts
 			(xy 129.54 49.53) (xy 152.4 49.53)
 		)
 		(stroke
@@ -2352,6 +2438,26 @@
 	)
 	(wire
 		(pts
+			(xy 234.95 101.6) (xy 234.95 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c8e4441-4c48-4eed-a747-6808c0d7ab0a")
+	)
+	(wire
+		(pts
+			(xy 219.71 97.79) (xy 219.71 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "678b8649-b78a-4ea0-8f81-47c3062fc203")
+	)
+	(wire
+		(pts
 			(xy 243.84 39.37) (xy 265.43 39.37)
 		)
 		(stroke
@@ -2369,6 +2475,16 @@
 			(type default)
 		)
 		(uuid "686b54fd-6568-4ba5-ba92-ea976f4dd9c0")
+	)
+	(wire
+		(pts
+			(xy 275.59 97.79) (xy 275.59 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "690a33aa-7d18-4a2e-aacf-a02f81364dbc")
 	)
 	(wire
 		(pts
@@ -2392,6 +2508,26 @@
 	)
 	(wire
 		(pts
+			(xy 248.92 101.6) (xy 248.92 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73a58e6a-d7ca-4b0c-bab7-0bbe2662aa4b")
+	)
+	(wire
+		(pts
+			(xy 262.89 120.65) (xy 262.89 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78060cfa-dab3-4a09-9b13-c86b356a683c")
+	)
+	(wire
+		(pts
 			(xy 81.28 25.4) (xy 90.17 25.4)
 		)
 		(stroke
@@ -2410,6 +2546,16 @@
 		)
 		(uuid "7cd27f39-5627-4359-8e01-25dd596c03f9")
 	)
+	(wire
+		(pts
+			(xy 248.92 101.6) (xy 261.62 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7eba5876-882b-47da-9f07-79e22480143c")
+	)
 	(polyline
 		(pts
 			(xy 110.49 77.47) (xy 194.31 77.47)
@@ -2419,6 +2565,16 @@
 			(type default)
 		)
 		(uuid "8256a564-1591-4bb6-8bb4-e74b8ec784c0")
+	)
+	(wire
+		(pts
+			(xy 248.92 97.79) (xy 248.92 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83535da6-c34a-420b-af1f-ae8e9da845bd")
 	)
 	(wire
 		(pts
@@ -2492,6 +2648,26 @@
 	)
 	(wire
 		(pts
+			(xy 275.59 101.6) (xy 261.62 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91e30a14-c9ec-46d4-88ea-f1b71e96f5ea")
+	)
+	(wire
+		(pts
+			(xy 241.3 124.46) (xy 233.68 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95bcc211-f0f0-4041-874d-805146760748")
+	)
+	(wire
+		(pts
 			(xy 90.17 38.1) (xy 92.71 38.1)
 		)
 		(stroke
@@ -2499,6 +2675,26 @@
 			(type default)
 		)
 		(uuid "9625e2d9-7956-4f57-a2f3-3a2d4bba051b")
+	)
+	(wire
+		(pts
+			(xy 248.92 120.65) (xy 248.92 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98dba70b-b972-40c1-a0ed-d8c079ee3b37")
+	)
+	(wire
+		(pts
+			(xy 219.71 101.6) (xy 234.95 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d579056-d754-4af6-8a76-233d0532f933")
 	)
 	(wire
 		(pts
@@ -2522,6 +2718,16 @@
 	)
 	(wire
 		(pts
+			(xy 241.3 124.46) (xy 241.3 128.27)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ac09866a-888d-4706-b82a-9f07188affe7")
+	)
+	(wire
+		(pts
 			(xy 146.05 31.75) (xy 146.05 34.29)
 		)
 		(stroke
@@ -2539,6 +2745,16 @@
 			(type default)
 		)
 		(uuid "aec43ed0-10e4-4469-9c90-5e9df2ff4777")
+	)
+	(wire
+		(pts
+			(xy 234.95 101.6) (xy 248.92 101.6)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b0107b3e-e8f5-4910-85f2-8e38198f8a83")
 	)
 	(wire
 		(pts
@@ -2602,6 +2818,26 @@
 	)
 	(wire
 		(pts
+			(xy 233.68 124.46) (xy 233.68 120.65)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c90f2000-6758-4e80-bb7b-5f8aba82aedb")
+	)
+	(wire
+		(pts
+			(xy 262.89 124.46) (xy 248.92 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3949e42-e059-44b6-9241-624ec62319c9")
+	)
+	(wire
+		(pts
 			(xy 90.17 25.4) (xy 90.17 38.1)
 		)
 		(stroke
@@ -2639,6 +2875,16 @@
 			(type default)
 		)
 		(uuid "decd1924-8914-45f1-b39d-d7fa3416f8e4")
+	)
+	(wire
+		(pts
+			(xy 219.71 120.65) (xy 219.71 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0590c3f-8824-4241-be4d-fcfcb2783ec8")
 	)
 	(wire
 		(pts
@@ -2816,6 +3062,30 @@
 	)
 	(global_label "HP_servo2"
 		(shape input)
+		(at 172.72 114.3 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "1861c84a-0dd9-443a-959d-1edf12c0b2c9")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 172.72 127.0823 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "HP_servo2"
+		(shape input)
 		(at 132.08 115.57 180)
 		(fields_autoplaced yes)
 		(effects
@@ -2947,6 +3217,30 @@
 		(uuid "2a205e20-7dbc-4452-a701-6ca7f5f9cc73")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 253.9782 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "HP_servo3"
+		(shape input)
+		(at 184.15 114.3 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "4bf23f27-9410-47fd-9942-0f965f7754a8")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 184.15 127.0823 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3198,6 +3492,30 @@
 			)
 		)
 	)
+	(global_label "HP_servo4"
+		(shape input)
+		(at 161.29 121.92 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "c8212310-7c56-42cc-ae1c-1fdf3a97e536")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 161.29 134.7023 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
 	(global_label "HP_servo1"
 		(shape input)
 		(at 132.08 93.98 180)
@@ -3283,6 +3601,30 @@
 		(uuid "d581fa34-6d8b-44f9-a0c3-a4a0a7ec6b73")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
 			(at 138.43 75.3752 90)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+	)
+	(global_label "HP_servo1"
+		(shape input)
+		(at 157.48 114.3 270)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "db0adcae-123a-4c85-95bc-1fbd3199e542")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 157.48 127.0823 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3570,6 +3912,85 @@
 			(project "Bellbot"
 				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
 					(reference "#PWR0102")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 275.59 97.79 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1cd0b02c-9489-4482-9ec4-fcf69e215f53")
+		(property "Reference" "TP19"
+			(at 278.13 93.2179 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND_5"
+			(at 278.13 95.7579 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 280.67 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 280.67 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 275.59 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "87d3ad48-bd8a-4542-8afb-7b3aa1e09e5e")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "TP19")
 					(unit 1)
 				)
 			)
@@ -4546,7 +4967,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 170.18 114.3 0)
+		(at 161.29 121.92 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -4555,9 +4976,9 @@
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "4435515e-219c-4242-9dd0-597fe2c77bd2")
-		(property "Reference" "TP13"
-			(at 172.72 109.7279 0)
+		(uuid "43349b8d-b954-4781-b5da-31bf3a7cd0d3")
+		(property "Reference" "TP15"
+			(at 163.83 117.3479 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4567,8 +4988,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "HP2_TP"
-			(at 172.72 112.2679 0)
+		(property "Value" "HP4_TP"
+			(at 163.83 119.8879 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -4579,7 +5000,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 175.26 114.3 0)
+			(at 166.37 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4590,7 +5011,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 175.26 114.3 0)
+			(at 166.37 121.92 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4601,7 +5022,86 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 170.18 114.3 0)
+			(at 161.29 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "264ec5c8-7b55-4235-aca9-6f536923799f")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "TP15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 172.72 114.3 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4435515e-219c-4242-9dd0-597fe2c77bd2")
+		(property "Reference" "TP13"
+			(at 175.26 109.7279 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "HP2_TP"
+			(at 175.26 112.2679 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 177.8 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 177.8 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 172.72 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4935,6 +5435,84 @@
 			(project "Bellbot"
 				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
 					(reference "TP6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 241.3 128.27 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4bf08493-85e5-41a9-8bab-2e493e245023")
+		(property "Reference" "#PWR0113"
+			(at 241.3 134.62 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 241.3 133.35 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 241.3 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 241.3 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 241.3 128.27 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "59d9eee1-d410-4a3c-a6d0-0b02beeef900")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "#PWR0113")
 					(unit 1)
 				)
 			)
@@ -5758,6 +6336,85 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
+		(at 261.62 97.79 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "7078b9ac-2f95-4129-9d87-581530f97695")
+		(property "Reference" "TP18"
+			(at 264.16 93.2179 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND_4"
+			(at 264.16 95.7579 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 266.7 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 266.7 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 261.62 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "e09be480-89d9-46c6-bcd9-36288fb5fd40")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "TP18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
 		(at 157.48 114.3 0)
 		(unit 1)
 		(body_style 1)
@@ -6070,6 +6727,85 @@
 			(project "Bellbot"
 				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
 					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 262.89 120.65 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "901a2644-857c-40d2-b6b1-00c78765f32d")
+		(property "Reference" "TP24"
+			(at 265.43 116.0779 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND_9"
+			(at 265.43 118.6179 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 267.97 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 267.97 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 262.89 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "44c51927-8c06-431d-a2c4-6119ee330878")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "TP24")
 					(unit 1)
 				)
 			)
@@ -6404,6 +7140,85 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 233.68 120.65 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9bf6f8e3-b53f-40cc-b11a-79c9fb9f465c")
+		(property "Reference" "TP22"
+			(at 236.22 116.0779 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND_7"
+			(at 236.22 118.6179 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 238.76 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 238.76 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 233.68 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "bcfcf03c-3328-40d7-b190-5720d4d23873")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "TP22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 132.08 96.52 0)
 		(unit 1)
@@ -6476,6 +7291,164 @@
 			(project "Bellbot"
 				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
 					(reference "#PWR0101")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 219.71 97.79 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a42c8068-b799-477d-afd2-87079e84d070")
+		(property "Reference" "TP20"
+			(at 222.25 93.2179 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND_1"
+			(at 222.25 95.7579 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 224.79 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 224.79 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 219.71 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "ebba656b-d5cc-4e7b-b81d-432725907896")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "TP20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 219.71 120.65 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a8081816-0798-445e-99fc-732c26a46907")
+		(property "Reference" "TP21"
+			(at 222.25 116.0779 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND_6"
+			(at 222.25 118.6179 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 224.79 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 224.79 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 219.71 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "da627397-c900-4f3a-b7ed-86fb3ca83f42")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "TP21")
 					(unit 1)
 				)
 			)
@@ -6890,7 +7863,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 182.88 114.3 0)
+		(at 184.15 114.3 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -6901,7 +7874,7 @@
 		(fields_autoplaced yes)
 		(uuid "c8312496-6d59-4a7f-8a3e-066a43f059ff")
 		(property "Reference" "TP12"
-			(at 185.42 109.7279 0)
+			(at 186.69 109.7279 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6912,7 +7885,7 @@
 			)
 		)
 		(property "Value" "HP3_TP"
-			(at 185.42 112.2679 0)
+			(at 186.69 112.2679 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -6923,7 +7896,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 187.96 114.3 0)
+			(at 189.23 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6934,7 +7907,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 187.96 114.3 0)
+			(at 189.23 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6945,7 +7918,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 182.88 114.3 0)
+			(at 184.15 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7124,6 +8097,85 @@
 			(project "Bellbot"
 				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
 					(reference "#PWR0107")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 248.92 97.79 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d518f71d-cc57-4f0a-ac56-5484214764bb")
+		(property "Reference" "TP17"
+			(at 251.46 93.2179 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND_3"
+			(at 251.46 95.7579 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 254 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 248.92 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "59578c60-9462-43e9-a9f4-e06990117cae")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "TP17")
 					(unit 1)
 				)
 			)
@@ -7455,6 +8507,85 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
+		(at 234.95 97.79 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e4138a04-0a24-48a2-b0a5-c19bfc1fe8b2")
+		(property "Reference" "TP16"
+			(at 237.49 93.2179 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND_2"
+			(at 237.49 95.7579 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 240.03 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 240.03 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 234.95 97.79 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "b06b9fa5-559b-49d7-a2b8-6d5e896b1f27")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "TP16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
 		(at 41.91 43.18 0)
 		(unit 1)
 		(body_style 1)
@@ -7527,6 +8658,84 @@
 			(project "Bellbot"
 				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
 					(reference "TP5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 248.92 105.41 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "eb518cf1-521f-4229-b5c3-8c34038ef199")
+		(property "Reference" "#PWR0112"
+			(at 248.92 111.76 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "GND"
+			(at 248.92 110.49 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 248.92 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 248.92 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 248.92 105.41 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1e9fd129-55a8-4a4c-9fb4-58b0c29843dd")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "#PWR0112")
 					(unit 1)
 				)
 			)
@@ -7842,6 +9051,85 @@
 			(project "Bellbot"
 				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
 					(reference "#PWR020")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 248.92 120.65 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "fb7efaf7-6efb-4fa4-8459-4a63f75db45e")
+		(property "Reference" "TP23"
+			(at 251.46 116.0779 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "GND_8"
+			(at 251.46 118.6179 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" ""
+			(at 254 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 254 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 248.92 120.65 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "1e461cd2-05b6-4f2c-a93b-dd31172f4b46")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "TP23")
 					(unit 1)
 				)
 			)
