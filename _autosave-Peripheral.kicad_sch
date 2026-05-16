@@ -2276,6 +2276,26 @@
 		)
 		(uuid "0e1afc81-3cb3-4ee9-8ad8-047a0527e01e")
 	)
+	(wire
+		(pts
+			(xy 265.43 45.72) (xy 265.43 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0fdd4927-2530-4104-9043-81386dd20c2e")
+	)
+	(wire
+		(pts
+			(xy 40.64 104.14) (xy 54.61 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14240842-0497-4fa9-8d4b-4fcf442a9e9a")
+	)
 	(polyline
 		(pts
 			(xy 12.7 77.47) (xy 110.49 77.47)
@@ -2308,6 +2328,26 @@
 	)
 	(wire
 		(pts
+			(xy 243.84 45.72) (xy 255.27 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b2c9ffc-34c4-4b7e-8f93-ecae25d4cad9")
+	)
+	(wire
+		(pts
+			(xy 40.64 100.33) (xy 40.64 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b8e7ff8-fdae-4c3a-a0ed-3053a5b28735")
+	)
+	(wire
+		(pts
 			(xy 252.73 34.29) (xy 259.08 34.29)
 		)
 		(stroke
@@ -2318,6 +2358,36 @@
 	)
 	(wire
 		(pts
+			(xy 246.38 41.91) (xy 248.92 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d002ab4-4835-4c8d-a1c9-b7137035ce80")
+	)
+	(wire
+		(pts
+			(xy 260.35 45.72) (xy 265.43 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21827e4c-b900-45e0-9129-1fd07826454e")
+	)
+	(wire
+		(pts
+			(xy 77.47 44.45) (xy 78.74 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2369c5da-3bfe-4961-b463-0e3de29730e1")
+	)
+	(wire
+		(pts
 			(xy 152.4 34.29) (xy 152.4 31.75)
 		)
 		(stroke
@@ -2325,6 +2395,36 @@
 			(type default)
 		)
 		(uuid "27965608-8b81-47fa-9195-3d48fcee833e")
+	)
+	(wire
+		(pts
+			(xy 265.43 38.1) (xy 265.43 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b2c36c1-2b92-4959-b09f-83d974df95b0")
+	)
+	(wire
+		(pts
+			(xy 43.18 114.3) (xy 54.61 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32ae3386-bece-41c5-9a08-0ba3e17af023")
+	)
+	(wire
+		(pts
+			(xy 232.41 38.1) (xy 232.41 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "33638d37-cbd5-47ae-b5d9-eb329d2e9e64")
 	)
 	(wire
 		(pts
@@ -2348,6 +2448,16 @@
 	)
 	(wire
 		(pts
+			(xy 88.9 39.37) (xy 91.44 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "35d90b4e-af4e-4d20-98c5-8e884dfccbb5")
+	)
+	(wire
+		(pts
 			(xy 168.91 83.82) (xy 168.91 90.17)
 		)
 		(stroke
@@ -2368,6 +2478,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 114.3) (xy 38.1 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b240130-5e0c-4570-be1b-c1abb1e48240")
+	)
+	(wire
+		(pts
 			(xy 219.71 124.46) (xy 233.68 124.46)
 		)
 		(stroke
@@ -2375,6 +2495,16 @@
 			(type default)
 		)
 		(uuid "3e614b28-9bb7-4587-a3e0-718339306489")
+	)
+	(wire
+		(pts
+			(xy 54.61 104.14) (xy 54.61 105.41)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ed26bae-e49c-4ac7-9b72-ee91bd02f62a")
 	)
 	(wire
 		(pts
@@ -2428,6 +2558,16 @@
 	)
 	(wire
 		(pts
+			(xy 83.82 44.45) (xy 86.36 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e3972e8-70f8-4b83-8179-c3bb3025bc4f")
+	)
+	(wire
+		(pts
 			(xy 132.08 85.09) (xy 132.08 91.44)
 		)
 		(stroke
@@ -2448,6 +2588,26 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 107.95) (xy 36.83 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "63a87df8-b66c-4566-984a-0ae5231343dc")
+	)
+	(wire
+		(pts
+			(xy 54.61 114.3) (xy 54.61 113.03)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64b202c4-6991-4d66-8d78-c1cbe3afbe64")
+	)
+	(wire
+		(pts
 			(xy 219.71 97.79) (xy 219.71 101.6)
 		)
 		(stroke
@@ -2458,7 +2618,7 @@
 	)
 	(wire
 		(pts
-			(xy 243.84 39.37) (xy 265.43 39.37)
+			(xy 232.41 38.1) (xy 265.43 38.1)
 		)
 		(stroke
 			(width 0)
@@ -2498,6 +2658,16 @@
 	)
 	(wire
 		(pts
+			(xy 86.36 44.45) (xy 86.36 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6c564536-29ce-4441-b840-5c169fdd8f53")
+	)
+	(wire
+		(pts
 			(xy 233.68 36.83) (xy 265.43 36.83)
 		)
 		(stroke
@@ -2505,6 +2675,16 @@
 			(type default)
 		)
 		(uuid "6e383178-580b-42bc-aaba-922a61dd437f")
+	)
+	(wire
+		(pts
+			(xy 91.44 39.37) (xy 91.44 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6fd5cde1-b2a8-428f-994d-019be5c5e165")
 	)
 	(wire
 		(pts
@@ -2518,6 +2698,16 @@
 	)
 	(wire
 		(pts
+			(xy 77.47 44.45) (xy 77.47 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77b37706-ce6a-4d23-b26f-6f64fc5cf186")
+	)
+	(wire
+		(pts
 			(xy 262.89 120.65) (xy 262.89 124.46)
 		)
 		(stroke
@@ -2525,6 +2715,16 @@
 			(type default)
 		)
 		(uuid "78060cfa-dab3-4a09-9b13-c86b356a683c")
+	)
+	(wire
+		(pts
+			(xy 77.47 43.18) (xy 63.5 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ac3ee4c-a374-4067-9ea5-91a3f80447f2")
 	)
 	(wire
 		(pts
@@ -2545,6 +2745,16 @@
 			(type default)
 		)
 		(uuid "7cd27f39-5627-4359-8e01-25dd596c03f9")
+	)
+	(wire
+		(pts
+			(xy 53.34 115.57) (xy 54.61 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7e65025d-f7c0-4fbf-b355-1b0a14472d36")
 	)
 	(wire
 		(pts
@@ -2678,6 +2888,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 110.49) (xy 54.61 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9714d803-94fd-43c3-899e-de0a2c79fba5")
+	)
+	(wire
+		(pts
 			(xy 248.92 120.65) (xy 248.92 124.46)
 		)
 		(stroke
@@ -2685,6 +2905,26 @@
 			(type default)
 		)
 		(uuid "98dba70b-b972-40c1-a0ed-d8c079ee3b37")
+	)
+	(wire
+		(pts
+			(xy 254 41.91) (xy 265.43 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ad915ac-91f3-44ad-a357-6856ee0e29e8")
+	)
+	(wire
+		(pts
+			(xy 86.36 43.18) (xy 92.71 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9d04c413-384d-4a03-bb34-95bbddf41237")
 	)
 	(wire
 		(pts
@@ -2748,6 +2988,16 @@
 	)
 	(wire
 		(pts
+			(xy 50.8 116.84) (xy 53.34 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "af975faa-394a-45b9-bfc9-12edc5376df8")
+	)
+	(wire
+		(pts
 			(xy 234.95 101.6) (xy 248.92 101.6)
 		)
 		(stroke
@@ -2766,6 +3016,16 @@
 		)
 		(uuid "b0949ecd-772c-4fc1-93cf-0fb08fc05bda")
 	)
+	(wire
+		(pts
+			(xy 45.72 111.76) (xy 45.72 110.49)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2ff1b34-6221-4e26-8223-16fba16419c7")
+	)
 	(polyline
 		(pts
 			(xy 110.49 12.7) (xy 110.49 77.47)
@@ -2775,6 +3035,16 @@
 			(type default)
 		)
 		(uuid "b37a6386-322d-4107-95fc-0bb06215e3d5")
+	)
+	(wire
+		(pts
+			(xy 243.84 46.99) (xy 243.84 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b512c83d-e258-4b9e-886d-c3c684133444")
 	)
 	(polyline
 		(pts
@@ -2818,6 +3088,16 @@
 	)
 	(wire
 		(pts
+			(xy 82.55 40.64) (xy 73.66 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c729dbcd-3990-4eb3-8722-76ad004aa443")
+	)
+	(wire
+		(pts
 			(xy 233.68 124.46) (xy 233.68 120.65)
 		)
 		(stroke
@@ -2825,6 +3105,26 @@
 			(type default)
 		)
 		(uuid "c90f2000-6758-4e80-bb7b-5f8aba82aedb")
+	)
+	(wire
+		(pts
+			(xy 242.57 46.99) (xy 243.84 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ccdfce60-97b5-4912-862e-ca8637201822")
+	)
+	(wire
+		(pts
+			(xy 41.91 107.95) (xy 54.61 107.95)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cf84358a-bf76-4af5-bb48-feb78dfaed9a")
 	)
 	(wire
 		(pts
@@ -2868,7 +3168,7 @@
 	)
 	(wire
 		(pts
-			(xy 39.37 105.41) (xy 54.61 105.41)
+			(xy 34.29 100.33) (xy 40.64 100.33)
 		)
 		(stroke
 			(width 0)
@@ -2888,6 +3188,16 @@
 	)
 	(wire
 		(pts
+			(xy 53.34 116.84) (xy 53.34 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e12a4c7d-083b-401c-847d-d83a76379868")
+	)
+	(wire
+		(pts
 			(xy 146.05 39.37) (xy 146.05 46.99)
 		)
 		(stroke
@@ -2895,6 +3205,46 @@
 			(type default)
 		)
 		(uuid "e16f2840-0dfb-4e60-b160-9c7d14294898")
+	)
+	(wire
+		(pts
+			(xy 45.72 118.11) (xy 45.72 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e16f3f61-4009-4b37-8671-9420d155bd22")
+	)
+	(wire
+		(pts
+			(xy 30.48 118.11) (xy 45.72 118.11)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e358c4e3-92b5-4397-a280-46b22f741147")
+	)
+	(wire
+		(pts
+			(xy 91.44 40.64) (xy 92.71 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ebfa1fde-0a36-4777-abc3-cdeefec746f8")
+	)
+	(wire
+		(pts
+			(xy 82.55 39.37) (xy 82.55 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f13024e9-eb62-476a-88a7-aa0354596393")
 	)
 	(wire
 		(pts
@@ -2908,6 +3258,26 @@
 	)
 	(wire
 		(pts
+			(xy 82.55 39.37) (xy 83.82 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fa00e7fc-6571-46c9-8417-bcb45d4848b7")
+	)
+	(wire
+		(pts
+			(xy 30.48 111.76) (xy 45.72 111.76)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe0006b3-4b41-4162-b949-989c13b374b8")
+	)
+	(wire
+		(pts
 			(xy 152.4 39.37) (xy 152.4 49.53)
 		)
 		(stroke
@@ -2915,6 +3285,106 @@
 			(type default)
 		)
 		(uuid "ffe46c11-a053-4876-bf8a-ad205dac2f8b")
+	)
+	(label "3V3TX_LIDAR"
+		(at 90.17 39.37 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "1728f88c-749b-47fd-823a-054d2fd34cd0")
+	)
+	(label "3V3RX_LIDAR"
+		(at 87.63 43.18 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "2d2a2766-00c8-45ce-ba18-ac812c05c00c")
+	)
+	(label "HC05_RX"
+		(at 259.08 41.91 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "367c0ebd-ed86-4f19-b7aa-016d923f98db")
+	)
+	(label "MISO_SD"
+		(at 52.07 110.49 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "45c4f197-2ab3-496e-9999-46191066dfbb")
+	)
+	(label "3V3TX_LIDAR"
+		(at 76.2 40.64 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "979ffa9f-2478-4ce1-b3de-de68d259c50c")
+	)
+	(label "HC05_TX"
+		(at 260.35 45.72 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "ce26747d-d83d-4052-9eb4-eabe3c588ffc")
+	)
+	(label "MOSI_SD"
+		(at 45.72 114.3 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "ce73ff70-e867-412a-9b57-1f3c3e19d251")
+	)
+	(label "3V3RX_LIDAR"
+		(at 71.12 43.18 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "da13e5b8-6a9f-409d-9f8f-869de6caef6c")
+	)
+	(label "CS_SD"
+		(at 52.07 116.84 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "e578ac6e-fc8c-4ee4-9f3d-8cff456499d2")
+	)
+	(label "SCK_SD"
+		(at 45.72 107.95 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+			(justify left bottom)
+		)
+		(uuid "f46e162b-9950-48b4-a83e-78669946364c")
 	)
 	(global_label "SCK_SD"
 		(shape input)
@@ -2942,7 +3412,7 @@
 	)
 	(global_label "HC05_TX"
 		(shape input)
-		(at 265.43 44.45 180)
+		(at 242.57 46.99 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2952,7 +3422,7 @@
 		)
 		(uuid "0978c7bd-a464-46bd-a22e-77b9a247ef22")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 254.2806 44.45 0)
+			(at 231.4206 46.99 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2966,7 +3436,7 @@
 	)
 	(global_label "3V3TX_LIDAR"
 		(shape input)
-		(at 92.71 40.64 180)
+		(at 73.66 40.64 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2976,7 +3446,7 @@
 		)
 		(uuid "0a29623d-5912-43a9-a3b7-72fc9054db53")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 77.811 40.64 0)
+			(at 58.761 40.64 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2990,7 +3460,7 @@
 	)
 	(global_label "3V3RX_LIDAR"
 		(shape input)
-		(at 58.42 43.18 270)
+		(at 36.83 24.13 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3000,7 +3470,7 @@
 		)
 		(uuid "0a404c7c-2f96-43af-857f-f5842e7b6650")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 58.42 58.3814 90)
+			(at 36.83 39.3314 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3014,7 +3484,7 @@
 	)
 	(global_label "MISO_SD"
 		(shape input)
-		(at 54.61 110.49 180)
+		(at 30.48 111.76 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3024,7 +3494,7 @@
 		)
 		(uuid "13c08118-0437-4d4b-8c83-59f33340f7c9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.5815 110.49 0)
+			(at 19.4515 111.76 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3038,7 +3508,7 @@
 	)
 	(global_label "MOSI_SD"
 		(shape input)
-		(at 54.61 113.03 180)
+		(at 30.48 114.3 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3048,7 +3518,7 @@
 		)
 		(uuid "1684a83b-187e-44dd-a8ec-ce9725272f96")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 43.5815 113.03 0)
+			(at 19.4515 114.3 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3158,7 +3628,7 @@
 	)
 	(global_label "3V3TX_LIDAR"
 		(shape input)
-		(at 41.91 43.18 270)
+		(at 20.32 24.13 270)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3168,7 +3638,7 @@
 		)
 		(uuid "285225df-68cc-49c5-a333-c4276bef2815")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 41.91 58.079 90)
+			(at 20.32 39.029 90)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3206,7 +3676,7 @@
 	)
 	(global_label "HC05_RX"
 		(shape input)
-		(at 265.43 41.91 180)
+		(at 246.38 41.91 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3216,7 +3686,7 @@
 		)
 		(uuid "2a205e20-7dbc-4452-a701-6ca7f5f9cc73")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 253.9782 41.91 0)
+			(at 234.9282 41.91 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3278,7 +3748,7 @@
 	)
 	(global_label "3V3RX_LIDAR"
 		(shape input)
-		(at 92.71 43.18 180)
+		(at 63.5 43.18 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3288,7 +3758,7 @@
 		)
 		(uuid "62819933-0a6d-4605-b41e-59d2bbced6d8")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 77.5086 43.18 0)
+			(at 48.2986 43.18 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3422,7 +3892,7 @@
 	)
 	(global_label "SCK_SD"
 		(shape input)
-		(at 54.61 107.95 180)
+		(at 30.48 107.95 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3432,7 +3902,7 @@
 		)
 		(uuid "a7e290e3-ea27-4e29-b6c1-be5bd82839d9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 44.4282 107.95 0)
+			(at 20.2982 107.95 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3470,7 +3940,7 @@
 	)
 	(global_label "CS_SD"
 		(shape input)
-		(at 54.61 115.57 180)
+		(at 30.48 118.11 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -3480,7 +3950,7 @@
 		)
 		(uuid "c3b968d5-df36-4c10-9bfb-f82b2f31dc3a")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 45.6982 115.57 0)
+			(at 21.5682 118.11 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3765,7 +4235,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 243.84 39.37 0)
+		(at 232.41 39.37 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -3775,7 +4245,7 @@
 		(dnp no)
 		(uuid "0928cad0-82a7-4b97-8525-84c274c17d63")
 		(property "Reference" "#PWR023"
-			(at 243.84 45.72 0)
+			(at 232.41 45.72 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3786,7 +4256,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 243.84 43.434 0)
+			(at 232.41 43.434 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -3796,7 +4266,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 243.84 39.37 0)
+			(at 232.41 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3807,7 +4277,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 243.84 39.37 0)
+			(at 232.41 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3818,7 +4288,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 243.84 39.37 0)
+			(at 232.41 39.37 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -4070,6 +4540,87 @@
 			(project "Bellbot"
 				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
 					(reference "TP10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 257.81 45.72 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "25bec342-982b-46e3-aae4-0a216beced63")
+		(property "Reference" "R28"
+			(at 259.588 43.434 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22"
+			(at 258.826 48.26 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 257.81 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 257.81 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 257.81 45.72 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4e5c80b0-fe8c-4ed6-8b15-9cf6cb799b19")
+		)
+		(pin "2"
+			(uuid "9075f1e9-c5db-49a2-936b-a2f2fe898666")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "R28")
 					(unit 1)
 				)
 			)
@@ -5363,7 +5914,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 58.42 43.18 0)
+		(at 36.83 24.13 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -5374,7 +5925,7 @@
 		(fields_autoplaced yes)
 		(uuid "4bb71611-dbeb-4d0c-a348-d4f72eb21c2e")
 		(property "Reference" "TP6"
-			(at 60.96 38.6079 0)
+			(at 39.37 19.5579 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5385,7 +5936,7 @@
 			)
 		)
 		(property "Value" "RX_LIDAR_TP"
-			(at 60.96 41.1479 0)
+			(at 39.37 22.0979 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -5396,7 +5947,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Keystone_5019_Miniature"
-			(at 63.5 43.18 0)
+			(at 41.91 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5407,7 +5958,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 63.5 43.18 0)
+			(at 41.91 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5418,7 +5969,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 58.42 43.18 0)
+			(at 36.83 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -6575,6 +7126,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 81.28 44.45 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "75579742-7304-41de-b459-86d0f08d11fd")
+		(property "Reference" "R26"
+			(at 83.058 42.164 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22"
+			(at 82.296 46.99 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 81.28 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 81.28 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 81.28 44.45 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "4fbe4a11-dcef-450f-b99f-38cda3588dc5")
+		)
+		(pin "2"
+			(uuid "5365cd76-479b-4978-bbff-8f440ccac681")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "R26")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 81.28 31.75 0)
 		(unit 1)
@@ -6646,6 +7278,87 @@
 			(project "Bellbot"
 				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
 					(reference "#PWR018")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 86.36 39.37 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "7a588a43-8c23-4231-a6f3-0f471a32dde3")
+		(property "Reference" "R25"
+			(at 88.138 37.084 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22"
+			(at 87.376 41.91 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 86.36 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 86.36 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 86.36 39.37 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "f80fcf04-5811-4453-883a-c1fe25b3c38a")
+		)
+		(pin "2"
+			(uuid "f4c5efa0-952a-4085-ba38-bfb06d62580b")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "R25")
 					(unit 1)
 				)
 			)
@@ -6806,6 +7519,87 @@
 			(project "Bellbot"
 				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
 					(reference "TP24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 48.26 110.49 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9090aff1-5ab2-40f7-8d2e-c6cab9e8e34b")
+		(property "Reference" "R31"
+			(at 53.086 109.22 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22"
+			(at 52.578 111.76 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 48.26 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 48.26 110.49 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "12d92a96-838e-4f54-842d-b7a370cca8fc")
+		)
+		(pin "2"
+			(uuid "4785c502-b255-4864-972a-a1983d092c1e")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "R31")
 					(unit 1)
 				)
 			)
@@ -7140,6 +7934,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 39.37 107.95 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "9a4275db-e77e-4416-a8ff-a6908971934b")
+		(property "Reference" "R32"
+			(at 36.83 107.188 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22"
+			(at 37.338 109.474 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 39.37 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 39.37 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 39.37 107.95 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "19af95f7-534f-4df4-9892-83f20f09a8df")
+		)
+		(pin "2"
+			(uuid "e53903cd-c492-42e7-9b50-dcf5a033289c")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "R32")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Connector:TestPoint")
 		(at 233.68 120.65 0)
 		(unit 1)
@@ -7370,6 +8245,87 @@
 			(project "Bellbot"
 				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
 					(reference "TP20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 40.64 114.3 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "a56d9560-15dc-49f1-b953-7f25909731c6")
+		(property "Reference" "R30"
+			(at 38.608 113.284 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22"
+			(at 37.846 115.824 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 40.64 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 40.64 114.3 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "261a8f5d-9f55-4326-94c4-b00bb85dd1b1")
+		)
+		(pin "2"
+			(uuid "72e1bf13-bd83-4cbf-964a-523211453c79")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "R30")
 					(unit 1)
 				)
 			)
@@ -8425,6 +9381,87 @@
 		)
 	)
 	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 251.46 41.91 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "dfbd8ee5-f770-4332-a377-10ecb205f609")
+		(property "Reference" "R27"
+			(at 253.238 39.624 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22"
+			(at 252.476 44.45 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 251.46 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 251.46 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 251.46 41.91 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "77420b01-7950-4d60-b0f1-bf5b985b760a")
+		)
+		(pin "2"
+			(uuid "093bd6fd-a1f2-4de9-8f17-153a2b1df4b3")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "R27")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:C_Small")
 		(at 125.73 129.54 0)
 		(unit 1)
@@ -8586,7 +9623,7 @@
 	)
 	(symbol
 		(lib_id "Connector:TestPoint")
-		(at 41.91 43.18 0)
+		(at 20.32 24.13 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8597,7 +9634,7 @@
 		(fields_autoplaced yes)
 		(uuid "ea12c5d9-815e-4a71-ae7c-f484cafb1728")
 		(property "Reference" "TP5"
-			(at 44.45 38.6079 0)
+			(at 22.86 19.5579 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8608,7 +9645,7 @@
 			)
 		)
 		(property "Value" "TX_LIDAR_TP"
-			(at 44.45 41.1479 0)
+			(at 22.86 22.0979 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8619,7 +9656,7 @@
 			)
 		)
 		(property "Footprint" "TestPoint:TestPoint_Keystone_5019_Miniature"
-			(at 46.99 43.18 0)
+			(at 25.4 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8630,7 +9667,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 46.99 43.18 0)
+			(at 25.4 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8641,7 +9678,7 @@
 			)
 		)
 		(property "Description" "test point"
-			(at 41.91 43.18 0)
+			(at 20.32 24.13 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8902,7 +9939,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 39.37 105.41 0)
+		(at 34.29 100.33 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -8910,10 +9947,9 @@
 		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
-		(fields_autoplaced yes)
 		(uuid "ef56d020-dd62-4d14-99d7-7df0c3dfbfc4")
 		(property "Reference" "#PWR026"
-			(at 39.37 111.76 0)
+			(at 34.29 106.68 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8924,7 +9960,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 39.37 110.49 0)
+			(at 34.29 104.648 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -8934,7 +9970,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 39.37 105.41 0)
+			(at 34.29 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8945,7 +9981,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 39.37 105.41 0)
+			(at 34.29 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -8956,7 +9992,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 39.37 105.41 0)
+			(at 34.29 100.33 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9051,6 +10087,87 @@
 			(project "Bellbot"
 				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
 					(reference "#PWR020")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_Small_US")
+		(at 48.26 116.84 90)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(uuid "f8d59f83-105a-438d-addc-a5491c0a70bc")
+		(property "Reference" "R29"
+			(at 53.34 119.38 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "22"
+			(at 49.276 119.38 90)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0805_2012Metric_Pad1.20x1.40mm_HandSolder"
+			(at 48.26 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 48.26 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Resistor, small US symbol"
+			(at 48.26 116.84 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "dd36c4b0-9f54-4ea5-aa9a-30f95297b12b")
+		)
+		(pin "2"
+			(uuid "164193f7-920f-4ed3-857a-372ed9c90e7a")
+		)
+		(instances
+			(project "Bellbot"
+				(path "/e8e381ed-df8a-48a3-822a-37f3233d3329/8c8120b7-7eca-4130-99a8-268717bfff76"
+					(reference "R29")
 					(unit 1)
 				)
 			)
