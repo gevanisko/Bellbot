@@ -62,7 +62,7 @@
           "hatch_thickness": 1.0,
           "min_clearance": 0.5,
           "min_island_area": 10.0,
-          "min_thickness": 0.25,
+          "min_thickness": 0.5,
           "pad_connection": 1,
           "remove_islands": 0,
           "thermal_relief_gap": 0.5,
@@ -629,7 +629,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "",
+      "plot": "C:/Projects/Bellbot/Bellbot/Fabrication Outputs/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "Bellbot.step",
@@ -764,7 +764,7 @@
         "uuid": "e8e381ed-df8a-48a3-822a-37f3233d3329"
       }
     ],
-    "used_designators": "R25-32",
+    "used_designators": "R25-32,TP25",
     "variants": []
   },
   "sheets": [
