@@ -40,6 +40,8 @@ Across the project revisions, the BellBot hardware may include:
 | I2C / SPI / UART / Quad-SPI Breakouts | Expansion for additional sensors, memory, or communication modules |
 | Battery Charging and Protection | Portable operation and safe lithium-ion battery use |
 
+Later iterations (V2 and onward) are looking to employ AI accelerated chips with a reduced size and mainly using SMT components as opposed to through hole components
+
 ## Board Revisions
 
 This repository is intended to support multiple hardware revisions. Each revision may include different component choices, layouts, and design improvements.
