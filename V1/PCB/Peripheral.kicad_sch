@@ -2018,6 +2018,16 @@
 		)
 		(uuid "6f7bfed2-d5a3-443d-946c-7918310925a9")
 	)
+	(text "Reset Pin needs to be pulled up"
+		(exclude_from_sim no)
+		(at 180.848 56.896 0)
+		(effects
+			(font
+				(size 0.635 0.635)
+			)
+		)
+		(uuid "761660f0-a1c7-4077-ba1c-e73764fb7f22")
+	)
 	(text "LIDAR"
 		(exclude_from_sim no)
 		(at 102.616 74.676 0)

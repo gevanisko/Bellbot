@@ -4533,7 +4533,7 @@
 				)
 			)
 		)
-		(property "Value" "6.8uH"
+		(property "Value" "2.2uH"
 			(at 44.45 183.134 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9064,7 +9064,7 @@
 				)
 			)
 		)
-		(property "Value" "6.8uH"
+		(property "Value" "2.2uH"
 			(at 44.45 119.634 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -9785,7 +9785,7 @@
 				)
 			)
 		)
-		(property "Value" "6.8uH"
+		(property "Value" "2.2uH"
 			(at 44.45 151.384 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10992,7 +10992,7 @@
 				)
 			)
 		)
-		(property "Value" "6.8uH"
+		(property "Value" "2.2uH"
 			(at 44.45 86.614 90)
 			(show_name no)
 			(do_not_autoplace no)
